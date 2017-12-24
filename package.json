@@ -1,0 +1,17 @@
+{
+  "name": "jwt-with-certs",
+  "version": "1.0.0",
+  "description": "JWT with openssl starter app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chanakya Lokam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "moment": "^2.20.1",
+    "prompt": "^1.0.0"
+  }
+}
