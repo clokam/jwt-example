@@ -25,7 +25,7 @@ This will generate a Private Key and a Public Key for you to use
 ```shell
 npm install
 
-node example/app.js
+node app.js
 ```
 
 You can try giving invalid token values (or) invalid username values to see how the validation is done
